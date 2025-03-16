@@ -28,9 +28,21 @@ A simple tool to track the color and coordinates of the mouse cursor in real-tim
 - `pyautogui` library
 - `keyboard` library
 - `tkinter` library (usually pre-installed with Python)
+  
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request. 
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make the changes.
+4. Submit a pull request describing your changes.
+
 
 ## Installation:
 To run this project, you need to install the required Python libraries. You can install them using pip:
 
 ```bash
 pip install pyautogui keyboard
+
+

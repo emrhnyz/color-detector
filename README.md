@@ -2,6 +2,10 @@
 
 A simple tool to track the color and coordinates of the mouse cursor in real-time. The tool allows you to capture the color and coordinates at the current mouse position and save them for later reference. The saved data includes RGB and HEX color codes, along with the respective screen coordinates.
 
+## Screenshot:
+![Screenshot of the application](screenshot.png)
+
+
 ## Features:
 - Track the position of the mouse cursor and the color at that position.
 - Display the RGB and HEX color codes in real-time.
